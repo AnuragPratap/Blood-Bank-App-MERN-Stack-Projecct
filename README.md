@@ -19,3 +19,10 @@ Enables data-driven decision-making and strategic planning.
 Improves communication and engagement with donors and medical facilities.
 The Blood Bank Management System significantly improves the overall effectiveness of blood banks by automating routine tasks, reducing errors, and enhancing operational efficiency. It ultimately contributes to the noble cause of saving lives by ensuring a steady and reliable supply of blood for patients in need.
 
+Technologies requirements:
+HTML, CSS, JavaScript, mongoDb, express, React-js, node-js, redux, bootstrap. 
+
+Software requirements:
+Visual studio code, MongoDb Compass, Postman.
+
+
