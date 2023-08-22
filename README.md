@@ -1,5 +1,4 @@
 # Blood-Bank-App-Mern-Stack-Project
-complete mern stack blood bank project source code
 
 The Blood Bank App is a comprehensive software solution designed to streamline and automate the operations of a blood bank or blood donation center. It aims to efficiently manage the entire blood donation process, from donor registration to inventory management and blood distribution. The system provides a user-friendly interface for both staff members and donors, ensuring smooth coordination and timely availability of blood units for patients in need.
 
@@ -20,9 +19,11 @@ Improves communication and engagement with donors and medical facilities.
 The Blood Bank Management System significantly improves the overall effectiveness of blood banks by automating routine tasks, reducing errors, and enhancing operational efficiency. It ultimately contributes to the noble cause of saving lives by ensuring a steady and reliable supply of blood for patients in need.
 
 Technologies requirements:
+
 HTML, CSS, JavaScript, mongoDb, express, React-js, node-js, redux, bootstrap. 
 
 Software requirements:
+
 Visual studio code, MongoDb Compass, Postman.
 
 
